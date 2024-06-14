@@ -1,0 +1,29 @@
+.security-info-container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .security-info-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .security-info-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .security-info-list li {
+    margin-bottom: 10px;
+  }
+  
+  .enabled {
+    color: green;
+  }
+  
+  .disabled {
+    color: red;
+  }
+  

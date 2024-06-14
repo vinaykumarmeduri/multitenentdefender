@@ -1,0 +1,60 @@
+.traffic-details-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.traffic-details-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.traffic-details-item {
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+
+.traffic-details-item:last-child {
+  border-bottom: none;
+}
+
+.traffic-details-item p {
+  margin: 5px 0;
+}
+
+strong {
+  color: #333;
+}
+.traffic-details-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.traffic-details-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.traffic-details-item {
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.traffic-details-item p {
+  margin: 5px 0;
+}

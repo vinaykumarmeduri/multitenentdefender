@@ -1,0 +1,40 @@
+/* Register.css */
+
+/* App Name */
+.app-name {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  /* Register Form */
+  .register-form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register-form .form-label {
+    font-weight: bold;
+  }
+  
+  .register-form input[type="text"],
+  .register-form input[type="email"],
+  .register-form input[type="password"] {
+    border-radius: 4px;
+  }
+  
+  .register-form button[type="submit"] {
+    border-radius: 4px;
+  }
+  
+  /* Link to Login */
+  .text-center p a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .text-center p a:hover {
+    text-decoration: underline;
+  }
+  
